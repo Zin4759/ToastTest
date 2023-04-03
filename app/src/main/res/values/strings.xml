@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ButtonEvents</string>
+    <string name="FirstButton">First Button</string>
+</resources>
